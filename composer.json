@@ -1,0 +1,17 @@
+{
+    "name": "samit/phpcomposer",
+    "autoload": {
+        "psr-4": {
+            "Samit\\Phpcomposer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Samit Koyom",
+            "email": "samitkoyom@gmail.com"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^8.2"
+    }
+}
